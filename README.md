@@ -1,10 +1,31 @@
 
-<a href="https://612e16b0345a47e3a0808a42--optimistic-volhard-df5872.netlify.app/"> Website</a>
+<a href="https://optimistic-volhard-df5872.netlify.app/"> Website</a>
 
 <ul style="list-style-type:disc">
    <li>Username: kodluyoruz</li>
    <li>Password: bootcamp109</li>
 </ul>
+
+### Görseller
+<img src="./img/img2.png" />
+<img src="./img/img3.png" />
+<img src="./img/img4.png" />
+<img src="./img/img5.png" />
+<img src="./img/img6.png" />
+<img src="./img/img7.png" />
+<img src="./img/img8.png" />
+<img src="./img/img9.png" />
+<img src="./img/img10.png" />
+<img src="./img/img11.png" />
+
+
+
+
+
+
+
+
+
 
 ### Kullanılan Teknolojiler
 
