@@ -19,7 +19,7 @@ export default function AppInquiry() {
 
     console.log(data);
     console.log("BESTE", chilData);
-    if (chilData) {
+    if (!chilData) {
       alert("Bu sorgu mevcut");
     } else {
       history.push("/basvuru-notFound")
