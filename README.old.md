@@ -1,6 +1,18 @@
 ## Bitirme projesi
 ### Başvuru / ticket yönetim sistemi
 
+# Gereklilikler
+
+- [x] React hooks
+- [x] Router (react-router/ reach router / etc)
+- [-] Context API
+- [x] Form management library (react-hook-form(önerilen) / formik / etc)
+- [x] Validation library (yup(önerilen), joi, etc)
+- [-] Tests (Unit test zorunlu, e2e opsiyonel)
+- [x] Uygulamanız kesinlikle bir servise deploy edilmiş olacak ve public link readme içinde yer alacak (netlify, vercel gibi)
+- [-] Open source
+- [-] Eslint
+
 
 #### Genel Açıklama
 
@@ -42,18 +54,6 @@ Kullanıcı adı ve şifre ile girilebilen bir ekrandan da yetkili kullanıcıla
   - Burada yazılan cevap son kullanıci tarafından basvuru/{basvuruNo} kısmından görüntülenebilmelidir.
   
 
-
-##### Gereklilikler
-
-- React hooks
-- Router (react-router/ reach router / etc)
-- Context API
-- Form management library (react-hook-form(önerilen) / formik / etc)
-- Validation library (yup(önerilen), joi, etc)
-- Tests (Unit test zorunlu, e2e opsiyonel)
-- Uygulamanız kesinlikle bir servise deploy edilmiş olacak ve public link readme içinde yer alacak (netlify, vercel gibi)
-- Open source
-- Eslint
 
 
 ##### Dikkat edelim
