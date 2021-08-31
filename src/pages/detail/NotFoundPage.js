@@ -7,7 +7,7 @@ export default function NotFoundPage() {
         <div>
            <h3 className="text-center">404 NOT FOUND</h3>
            <div>
-           <Link to="/basvuru-list"  ><AiTwotoneHome size={'50'} style={ {color:'#20DF7F'}}/> </Link>
+           <Link to="/create-incident"  ><AiTwotoneHome size={'50'} style={ {color:'#20DF7F'}}/> </Link>
 
            </div>
             
