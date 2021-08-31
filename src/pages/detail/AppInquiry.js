@@ -1,7 +1,5 @@
-import React, { useState,useEffect,useParams } from "react";
+import React, { useState } from "react";
 import { Container, Form } from "react-bootstrap";
-import Header from "../header/Header";
-import View from '../detail/View'
 import firebase from "../../data/config";
 import { useHistory, Link } from "react-router-dom";
 

@@ -1,6 +1,6 @@
-import React, { useState, useEffect ,useCallback} from "react";
+import React, { useState, useEffect } from "react";
 import firebase from "../../data/config";
-import {useParams, Link, useHistory } from "react-router-dom";
+import {useParams, Link,  } from "react-router-dom";
 import { Container, Form } from "react-bootstrap";
 
 export default function AnswerForm() {
@@ -24,7 +24,6 @@ export default function AnswerForm() {
   }, [id]);
   console.log("user",user);
 
-  let history=useHistory();
   let chilData;
   const onSubmit = (e) => {
     let ref1 = firebase.database().ref("ticket");
